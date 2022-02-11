@@ -11,10 +11,12 @@ install anaconda
 ## Graphs
 This app creates 3 graphs based on sar.log file: Average RPS per minute, average passed and failed requests & average rps per endpoints
 
-Examples:
-![](resources/endpoints.png)
-![](resources/rps.png)
-![](resources/responce_code.png)
-
 
 #To check click: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gorbovlesha/PyGraphs2Step/HEAD)
+
+
+
+
+## Examples:
+![](resources/endpoints.jpg)
+![](resources/rps.jpg)
